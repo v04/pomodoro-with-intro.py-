@@ -42,7 +42,7 @@
 
 
 
-[twitter]:
+
 
 [instagram]:https://www.instagram.com/cheennu/?hl=en
 [linkedin]: https://www.linkedin.com/in/vishal-seth-4060001b4/

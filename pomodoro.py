@@ -21,7 +21,8 @@ if start == "y":
     t1 = Turtle()
     tr = Turtle()
     wn = Screen()
-
+# you can change the timer for 25mins     
+# i have set for 4 seconds for testing 
     for i in range(4):
         t = 4
         t1.clear()
